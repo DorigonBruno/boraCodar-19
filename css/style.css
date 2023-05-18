@@ -143,3 +143,43 @@ body{
     height: 24px;
   }
 }
+
+@media(max-width: 480px){
+  .retangulo{
+    width: 100px;
+    height: 18px;
+    margin-bottom: 20px;
+  }
+  .card{
+    max-width: 400px;
+  }
+  .card h1{
+    font-size: 1rem;
+  }
+  .card-span{
+    font-size: .75rem;
+    margin-bottom: 20px;
+  }
+  .carro-motorista{
+    margin-bottom: 20px;
+  }
+  .carro-motorista1{
+    width: 120px;
+  }
+  .carro-motorista2{
+    width: 90px;
+  }
+  .mensagem{
+    margin-bottom: -30px;
+  }
+  .mensagem input{
+    height: 30px;
+    width: 220px;
+    font-size: .75rem;
+  }
+  .mensagem img{
+    width: 20px;
+    height: 20px;
+  }
+}
+
