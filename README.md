@@ -1,5 +1,5 @@
 <p>
-  <img src="./assets/thumb.png">
+  <img src="./github/thumb.png">
 </p>
 
 ## Bora codar - 19 🖥️
