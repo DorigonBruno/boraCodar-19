@@ -8,5 +8,4 @@ Este é um desafio da RocketSeat semanal para treinar.
 ## Tecnologias 🚀
 - HTML
 - CSS
-- GIT
-- GITHUB
+- Git e Github
